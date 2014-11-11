@@ -1,0 +1,5 @@
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\UnitTests\bin\Debug\UnitTests.dll
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\UnitTests\bin\Debug\UnitTests.pdb
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\UnitTests\obj\Debug\UnitTests.dll
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\UnitTests\obj\Debug\UnitTests.pdb

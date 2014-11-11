@@ -1,0 +1,16 @@
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\bin\Debug\MvvmTemplate.exe.config
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\bin\Debug\MvvmTemplate.exe
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\bin\Debug\MvvmTemplate.pdb
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\obj\Debug\MvvmTemplate.csprojResolveAssemblyReference.cache
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\obj\Debug\MainWindow.baml
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\obj\Debug\MainWindow.g.cs
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\obj\Debug\App.g.cs
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\obj\Debug\MvvmTemplate_MarkupCompile.cache
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\obj\Debug\MvvmTemplate.g.resources
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\obj\Debug\MvvmTemplate.Properties.Resources.resources
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\obj\Debug\MvvmTemplate.csproj.GenerateResource.Cache
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\obj\Debug\MvvmTemplate.exe
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmTemplate\obj\Debug\MvvmTemplate.pdb
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmKata\MvvmTemplate\bin\Debug\MvvmTemplate.exe.config
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmKata\MvvmTemplate\obj\Debug\MvvmTemplate.exe
+C:\Dev\Private\Katas\Mvvm\MvvmTemplate\MvvmKata\MvvmTemplate\obj\Debug\MvvmTemplate.pdb
